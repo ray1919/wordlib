@@ -56,9 +56,9 @@ sub check_text {
   foreach (@list) {
     next if /\d/;
     $s = to_S($_);
+    $isChecked = 0;
     if ($word = Words::Word->search(word => $s)->first) {
       @dbs = $word->dbs;
-      $isChecked = 0;
       map {
         my $dbn = $_->db->dbname;
         if ($libs =~ /${dbn}/){
