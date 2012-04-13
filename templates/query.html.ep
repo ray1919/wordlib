@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <title>Word Library</title>
+    <link rel="stylesheet" href="css/demo.css">
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dijit/themes/claro/claro.css" />
+    <link rel="stylesheet" href="css/demo.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dojo/dojo.js" data-dojo-config="async: true"></script>
+    <script>
+        require(["dojo/on", "dojo/dom", "dijit/registry", "dojo/_base/xhr", "dijit/form/SimpleTextarea", "dijit/form/CheckBox", "dijit/form/Button", "dojo/domReady!"], function(on, dom, registry, xhr, SimpleTextarea, CheckBox, Button) {
+
+            var textarea = new SimpleTextarea({
+                rows: 7,
+                cols: 50,
+                selectOnClick: true,
+                value: "<Input words here>"
+            }, "textarea");
+            textarea.startup();
+
+            var myLibs = new Array("junior","senior","CET-4","CET-6","TOEFL","IELTS","GRE");
+            var libLabel = new Array("Junior middle school", "Senior middle school", "CET-4", "CET-6", "TOEFL", "IELTS", "GRE");
+            for (elm in myLibs) {
+                document.getElementById(myLibs[elm]).innerHTML = libLabel[elm];
+                var checkbox = new CheckBox({
+                    id: myLibs[elm],
+                    value: myLibs[elm]
+                });
+                checkbox.placeAt(myLibs[elm],"first");
+            }
+
+            var button = new Button({
+                id: "btn1",
+                label: "Do it!",
+                onClick: function(){
+                    var qLibs = new Array;
+                    for (elm in myLibs) {
+                        if (registry.byId(myLibs[elm]).get("value")) {
+                            qLibs.push(registry.byId(myLibs[elm]).get("value"));
+                        }
+                    }
+                    console.log(qLibs.join());
+                    xhr.get({
+                        url: "query/" + qLibs.join(),
+                        load: function(newContent) {
+                            dom.byId("return").innerHTML = newContent;
+                        },
+                        error: function() {
+                            dom.byId("return").innerHTML = "Try it again!";
+                        }
+                    });
+                }
+            }, "btn");
+            button.startup();
+
+        });
+    </script>
+  </head>
+<body class="claro">
+    <h2>Query Words in Word Library</h2>
+    <div id="textbox">
+        <textarea id="textarea"></textarea><br>
+        <button id="btn" align="right"></button>
+        <p id="return"></p>
+    </div>
+    <div id="checkbox">
+        <label id="junior"></label><br>
+        <label id="senior"></label><br>
+        <label id="CET-4"></label><br>
+        <label id="CET-6"></label><br>
+        <label id="TOEFL"></label><br>
+        <label id="IELTS"></label><br>
+        <label id="GRE"></label><br>
+    </div>
+</body>

@@ -2,7 +2,7 @@ use Mojolicious::Lite;
 use lib 'lib';
 use Words;
 
-get '/' => 'appLayout';
+get '/' => 'query';
 
 get '/query/:word' => sub {
   my $self = shift;
