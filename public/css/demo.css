@@ -15,7 +15,8 @@ body {
     float: left;
 }
 
-#checkbox {
+.highlighted {
+    background-color: #fbbcbc;
 }
 
 button {

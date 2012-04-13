@@ -40,7 +40,41 @@ sub check_words {
       @dbs = $word->dbs;
       map { $res .= '|'.$_->db->dbname } @dbs;
     }
+    $res .= ", ";
   }
+  return $res;
+}
+
+sub check_text {
+  my @list = ();
+  my $self = shift;
+  my $text = shift;
+  my $libs = shift;
+  my ($s,$word,@dbs,$isChecked);
+  my $res = '';
+  words_list(\@list, $text);
+  foreach (@list) {
+    next if /\d/;
+    $s = to_S($_);
+    if ($word = Words::Word->search(word => $s)->first) {
+      @dbs = $word->dbs;
+      $isChecked = 0;
+      map {
+        my $dbn = $_->db->dbname;
+        if ($libs =~ /${dbn}/){
+          $isChecked = 1;
+        }
+      } @dbs;
+    }
+    if ($isChecked == 1) {
+      $res .= join('','<em>',$s,'</em>');
+    }
+    else{
+     $res .= $s;
+    }
+    $res .= " ";
+  }
+  $res =~ s/<\/em> <em>/ /g;
   return $res;
 }
 

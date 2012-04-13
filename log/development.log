@@ -79,3 +79,972 @@
 [Fri Apr 13 11:23:19 2012] [debug] GET /query/junior,senior,TOEFL,GRE (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
 [Fri Apr 13 11:23:19 2012] [debug] Dispatching callback.
 [Fri Apr 13 11:23:19 2012] [debug] 200 OK (0.025193s, 39.694/s).
+[Fri Apr 13 11:41:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 11:41:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:41:32 2012] [debug] GET /query/about (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:41:32 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:41:32 2012] [debug] 200 OK (0.216742s, 4.614/s).
+[Fri Apr 13 11:41:33 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:41:33 2012] [debug] GET /query/about (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:41:33 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:41:33 2012] [debug] 200 OK (0.009318s, 107.319/s).
+[Fri Apr 13 11:41:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:41:44 2012] [debug] GET /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:41:44 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:41:44 2012] [debug] 200 OK (0.001159s, 862.813/s).
+[Fri Apr 13 11:41:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:41:44 2012] [debug] GET /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:41:44 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:41:44 2012] [debug] 200 OK (0.000311s, 3215.434/s).
+[Fri Apr 13 11:41:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:41:47 2012] [debug] GET /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:41:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:41:47 2012] [debug] 200 OK (0.009743s, 102.638/s).
+[Fri Apr 13 11:41:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:41:47 2012] [debug] GET /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:41:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:41:47 2012] [debug] 200 OK (0.007873s, 127.016/s).
+[Fri Apr 13 11:44:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 11:44:22 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:22 2012] [debug] GET /query/pernicious (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:22 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:22 2012] [debug] 200 OK (0.217516s, 4.597/s).
+[Fri Apr 13 11:44:22 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:22 2012] [debug] GET /query/pernicious (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:22 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:22 2012] [debug] 200 OK (0.008581s, 116.537/s).
+[Fri Apr 13 11:44:30 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:30 2012] [debug] GET /query/pernicious+junior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:30 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:30 2012] [debug] 200 OK (0.019753s, 50.625/s).
+[Fri Apr 13 11:44:30 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:30 2012] [debug] GET /query/pernicious+junior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:30 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:30 2012] [debug] 200 OK (0.015313s, 65.304/s).
+[Fri Apr 13 11:44:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:45 2012] [debug] GET /query/junior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:45 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:45 2012] [debug] 200 OK (0.010862s, 92.064/s).
+[Fri Apr 13 11:44:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:48 2012] [debug] GET /query/junior,senior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:48 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:48 2012] [debug] 200 OK (0.017300s, 57.803/s).
+[Fri Apr 13 11:44:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:50 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:50 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 11:44:50 2012] [debug] 200 OK (0.007206s, 138.773/s).
+[Fri Apr 13 11:44:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:51 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:51 2012] [debug] 200 OK (0.001250s, 800.000/s).
+[Fri Apr 13 11:44:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:44:54 2012] [debug] GET /query/junior,senior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:44:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:44:54 2012] [debug] 200 OK (0.019283s, 51.859/s).
+[Fri Apr 13 11:45:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 11:45:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:45:47 2012] [debug] GET /query/junior,senior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:45:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:45:47 2012] [debug] 200 OK (0.227839s, 4.389/s).
+[Fri Apr 13 11:45:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:45:49 2012] [debug] GET /query/junior,senior (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:45:49 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:45:49 2012] [debug] 200 OK (0.017160s, 58.275/s).
+[Fri Apr 13 11:47:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:47:13 2012] [debug] GET /query/junior,senior,IELTS,GRE (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:47:13 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:47:13 2012] [debug] 200 OK (0.026540s, 37.679/s).
+[Fri Apr 13 11:47:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:47:16 2012] [debug] GET /query/junior,senior,IELTS,GRE (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:47:16 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:47:16 2012] [debug] 200 OK (0.018259s, 54.768/s).
+[Fri Apr 13 11:56:04 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 11:56:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:04 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:56:04 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 11:56:04 2012] [debug] 200 OK (0.007226s, 138.389/s).
+[Fri Apr 13 11:56:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:05 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:56:05 2012] [debug] 200 OK (0.000641s, 1560.062/s).
+[Fri Apr 13 11:56:09 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:09 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:56:09 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:56:09 2012] [debug] 200 OK (0.236888s, 4.221/s).
+[Fri Apr 13 11:56:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:12 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:56:12 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:56:12 2012] [debug] 200 OK (0.016928s, 59.074/s).
+[Fri Apr 13 11:56:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:16 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:56:16 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:56:16 2012] [debug] 200 OK (0.016672s, 59.981/s).
+[Fri Apr 13 11:56:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:56:16 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:56:16 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:56:16 2012] [debug] 200 OK (0.015816s, 63.227/s).
+[Fri Apr 13 11:57:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 11:57:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:57:47 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 11:57:47 2012] [debug] 200 OK (0.007443s, 134.354/s).
+[Fri Apr 13 11:57:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:48 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:57:48 2012] [debug] 200 OK (0.000639s, 1564.945/s).
+[Fri Apr 13 11:57:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:57:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:57:51 2012] [debug] 200 OK (0.322682s, 3.099/s).
+[Fri Apr 13 11:57:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:54 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:57:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:57:54 2012] [debug] 200 OK (0.076245s, 13.116/s).
+[Fri Apr 13 11:57:58 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:57:58 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:57:58 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:57:58 2012] [debug] 200 OK (0.063870s, 15.657/s).
+[Fri Apr 13 11:58:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:05 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:58:05 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:58:05 2012] [debug] 200 OK (0.063837s, 15.665/s).
+[Fri Apr 13 11:58:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:32 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:58:32 2012] [debug] 200 OK (0.001562s, 640.205/s).
+[Fri Apr 13 11:58:33 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:33 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:33 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:33 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:58:33 2012] [debug] 200 OK (0.001664s, 600.962/s).
+[Fri Apr 13 11:58:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:35 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:58:35 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:58:35 2012] [debug] 200 OK (0.076938s, 12.997/s).
+[Fri Apr 13 11:58:38 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:58:38 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:58:38 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:58:38 2012] [debug] 200 OK (0.064510s, 15.501/s).
+[Fri Apr 13 11:59:09 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:09 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:09 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:09 2012] [debug] 200 OK (0.063671s, 15.706/s).
+[Fri Apr 13 11:59:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 11:59:46 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:46 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:46 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 11:59:46 2012] [debug] 200 OK (0.007296s, 137.061/s).
+[Fri Apr 13 11:59:46 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:47 2012] [debug] 200 OK (0.001499s, 667.111/s).
+[Fri Apr 13 11:59:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:48 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:48 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:48 2012] [debug] 200 OK (0.290283s, 3.445/s).
+[Fri Apr 13 11:59:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:50 2012] [debug] 200 OK (0.064258s, 15.562/s).
+[Fri Apr 13 11:59:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:51 2012] [debug] 200 OK (0.074728s, 13.382/s).
+[Fri Apr 13 11:59:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:51 2012] [debug] 200 OK (0.074495s, 13.424/s).
+[Fri Apr 13 11:59:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:51 2012] [debug] 200 OK (0.074635s, 13.399/s).
+[Fri Apr 13 11:59:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:51 2012] [debug] 200 OK (0.074271s, 13.464/s).
+[Fri Apr 13 11:59:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:51 2012] [debug] 200 OK (0.074432s, 13.435/s).
+[Fri Apr 13 11:59:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:52 2012] [debug] 200 OK (0.074529s, 13.418/s).
+[Fri Apr 13 11:59:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:52 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:52 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:52 2012] [debug] 200 OK (0.075057s, 13.323/s).
+[Fri Apr 13 11:59:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 11:59:54 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 11:59:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 11:59:55 2012] [debug] 200 OK (0.076511s, 13.070/s).
+[Fri Apr 13 12:00:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:00:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:00:36 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:00:36 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:00:36 2012] [debug] 200 OK (0.007446s, 134.300/s).
+[Fri Apr 13 12:00:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:00:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:00:37 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:00:37 2012] [debug] 200 OK (0.001469s, 680.735/s).
+[Fri Apr 13 12:00:39 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:00:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:00:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:00:39 2012] [debug] 200 OK (0.297751s, 3.359/s).
+[Fri Apr 13 12:00:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:00:45 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:00:45 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:00:45 2012] [debug] 200 OK (0.064321s, 15.547/s).
+[Fri Apr 13 12:01:21 2012] [info] Server listening (http://*:3000)
+[Fri Apr 13 12:01:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:01:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:01:47 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:01:47 2012] [debug] 200 OK (0.007495s, 133.422/s).
+[Fri Apr 13 12:01:52 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:01:52 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:01:53 2012] [debug] 200 OK (0.331929s, 3.013/s).
+[Fri Apr 13 12:02:01 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:02:01 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:02:01 2012] [debug] 200 OK (0.080306s, 12.452/s).
+[Fri Apr 13 12:02:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:02:28 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:02:28 2012] [debug] 200 OK (0.001609s, 621.504/s).
+[Fri Apr 13 12:02:29 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:02:29 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:02:29 2012] [debug] 200 OK (0.000492s, 2032.520/s).
+[Fri Apr 13 12:02:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:02:32 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:02:32 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:02:32 2012] [debug] 200 OK (0.062834s, 15.915/s).
+[Fri Apr 13 12:02:39 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:02:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:02:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:02:39 2012] [debug] 200 OK (0.061470s, 16.268/s).
+[Fri Apr 13 12:02:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:02:45 2012] [debug] 200 OK (0.001320s, 757.576/s).
+[Fri Apr 13 12:02:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:02:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:02:50 2012] [debug] 200 OK (0.062956s, 15.884/s).
+[Fri Apr 13 12:06:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:06:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:19 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:19 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:06:19 2012] [debug] 200 OK (0.008329s, 120.062/s).
+[Fri Apr 13 12:06:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:19 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:19 2012] [debug] 200 OK (0.001534s, 651.890/s).
+[Fri Apr 13 12:06:21 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:21 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:21 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:06:21 2012] [debug] 200 OK (0.331822s, 3.014/s).
+[Fri Apr 13 12:06:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:28 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:28 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:06:28 2012] [debug] 200 OK (0.080679s, 12.395/s).
+[Fri Apr 13 12:06:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:06:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:43 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:43 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:06:43 2012] [debug] 200 OK (0.007367s, 135.740/s).
+[Fri Apr 13 12:06:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:43 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:43 2012] [debug] 200 OK (0.000585s, 1709.402/s).
+[Fri Apr 13 12:06:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:45 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:45 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:06:45 2012] [debug] 200 OK (0.273029s, 3.663/s).
+[Fri Apr 13 12:06:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:06:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:54 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:54 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:06:54 2012] [debug] 200 OK (0.007312s, 136.761/s).
+[Fri Apr 13 12:06:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:55 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:55 2012] [debug] 200 OK (0.000586s, 1706.485/s).
+[Fri Apr 13 12:06:56 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:06:56 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:06:56 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:06:56 2012] [debug] 200 OK (0.274306s, 3.646/s).
+[Fri Apr 13 12:07:11 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:11 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:11 2012] [debug] 200 OK (0.001531s, 653.168/s).
+[Fri Apr 13 12:07:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:07:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:12 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:12 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:07:12 2012] [debug] 200 OK (0.007461s, 134.030/s).
+[Fri Apr 13 12:07:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:14 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:14 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:07:14 2012] [debug] 200 OK (0.274129s, 3.648/s).
+[Fri Apr 13 12:07:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:18 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:18 2012] [debug] 200 OK (0.001357s, 736.920/s).
+[Fri Apr 13 12:07:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:18 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:18 2012] [debug] 200 OK (0.000444s, 2252.252/s).
+[Fri Apr 13 12:07:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:20 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:20 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:07:20 2012] [debug] 200 OK (0.062992s, 15.875/s).
+[Fri Apr 13 12:07:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:28 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:28 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:07:28 2012] [debug] 200 OK (0.062337s, 16.042/s).
+[Fri Apr 13 12:07:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:31 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:31 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:07:31 2012] [debug] 200 OK (0.059763s, 16.733/s).
+[Fri Apr 13 12:07:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:07:36 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:07:36 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:07:36 2012] [debug] 200 OK (0.061595s, 16.235/s).
+[Fri Apr 13 12:12:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:12:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:12:36 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:12:36 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:12:36 2012] [debug] 200 OK (0.007374s, 135.612/s).
+[Fri Apr 13 12:12:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:12:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:12:37 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:12:37 2012] [debug] 200 OK (0.000580s, 1724.138/s).
+[Fri Apr 13 12:12:39 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:12:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:12:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:12:39 2012] [debug] 200 OK (0.272184s, 3.674/s).
+[Fri Apr 13 12:12:42 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:12:42 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:12:42 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:12:42 2012] [debug] 200 OK (0.061718s, 16.203/s).
+[Fri Apr 13 12:12:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:12:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:12:59 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:12:59 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:12:59 2012] [debug] 200 OK (0.007341s, 136.221/s).
+[Fri Apr 13 12:12:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:13:00 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:13:00 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:13:00 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:13:00 2012] [debug] 200 OK (0.000802s, 1246.883/s).
+[Fri Apr 13 12:13:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:13:01 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:13:01 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:13:01 2012] [debug] 200 OK (0.274357s, 3.645/s).
+[Fri Apr 13 12:14:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:14:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:14:45 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:14:45 2012] [debug] 200 OK (0.007306s, 136.874/s).
+[Fri Apr 13 12:14:48 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:14:48 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:14:48 2012] [debug] 200 OK (0.273089s, 3.662/s).
+[Fri Apr 13 12:42:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:42:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:42:49 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:42:49 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:42:49 2012] [debug] 200 OK (0.007536s, 132.696/s).
+[Fri Apr 13 12:42:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:42:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:42:49 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:42:49 2012] [debug] 200 OK (0.000499s, 2004.008/s).
+[Fri Apr 13 12:42:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:42:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:42:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:42:51 2012] [debug] 200 OK (0.272405s, 3.671/s).
+[Fri Apr 13 12:43:05 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 12:43:05 2012] [debug] 200 OK (0.001457s, 686.342/s).
+[Fri Apr 13 12:43:12 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:43:12 2012] [debug] 200 OK (0.000878s, 1138.952/s).
+[Fri Apr 13 12:43:18 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 12:43:18 2012] [debug] 200 OK (0.000811s, 1233.046/s).
+[Fri Apr 13 12:43:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:43:23 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:43:23 2012] [debug] 200 OK (0.000839s, 1191.895/s).
+[Fri Apr 13 12:43:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:43:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:43:23 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:43:23 2012] [debug] 200 OK (0.000440s, 2272.727/s).
+[Fri Apr 13 12:43:28 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:43:28 2012] [debug] 200 OK (0.000621s, 1610.306/s).
+[Fri Apr 13 12:43:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:43:35 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:43:35 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:43:35 2012] [debug] 200 OK (0.062793s, 15.925/s).
+[Fri Apr 13 12:43:42 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:43:42 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:43:42 2012] [debug] 200 OK (0.062130s, 16.095/s).
+[Fri Apr 13 12:44:14 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 12:44:14 2012] [debug] 200 OK (0.001488s, 672.043/s).
+[Fri Apr 13 12:44:18 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 12:44:18 2012] [debug] 200 OK (0.000589s, 1697.793/s).
+[Fri Apr 13 12:44:33 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:44:33 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:44:33 2012] [debug] 200 OK (0.062393s, 16.027/s).
+[Fri Apr 13 12:44:40 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:44:40 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:44:40 2012] [debug] 200 OK (0.061700s, 16.207/s).
+[Fri Apr 13 12:44:44 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 12:44:44 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:44:44 2012] [debug] 200 OK (0.059936s, 16.684/s).
+[Fri Apr 13 12:44:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:44:47 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:44:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:44:47 2012] [debug] 200 OK (0.059693s, 16.752/s).
+[Fri Apr 13 12:44:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:44:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:44:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:44:50 2012] [debug] 200 OK (0.062174s, 16.084/s).
+[Fri Apr 13 12:45:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:45:11 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:45:11 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:45:11 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:45:11 2012] [debug] 200 OK (0.007261s, 137.722/s).
+[Fri Apr 13 12:45:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:45:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:45:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:45:12 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:45:12 2012] [debug] 200 OK (0.000539s, 1855.288/s).
+[Fri Apr 13 12:45:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:45:14 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:45:14 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:45:14 2012] [debug] 200 OK (0.272964s, 3.663/s).
+[Fri Apr 13 12:46:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:46:07 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:07 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:07 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:46:07 2012] [debug] 200 OK (0.007896s, 126.646/s).
+[Fri Apr 13 12:46:07 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:08 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:08 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:08 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:08 2012] [debug] 200 OK (0.001523s, 656.599/s).
+[Fri Apr 13 12:46:09 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:09 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:09 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:46:09 2012] [debug] 200 OK (0.345197s, 2.897/s).
+[Fri Apr 13 12:46:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:10 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:10 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:46:10 2012] [debug] 200 OK (0.082047s, 12.188/s).
+[Fri Apr 13 12:46:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:46:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:53 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:53 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:46:53 2012] [debug] 200 OK (0.007301s, 136.968/s).
+[Fri Apr 13 12:46:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:53 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:53 2012] [debug] 200 OK (0.000501s, 1996.008/s).
+[Fri Apr 13 12:46:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:55 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:55 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:46:55 2012] [debug] 200 OK (0.272278s, 3.673/s).
+[Fri Apr 13 12:46:56 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:46:56 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:46:56 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:46:56 2012] [debug] 200 OK (0.060065s, 16.649/s).
+[Fri Apr 13 12:47:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:47:24 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:47:24 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:47:24 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:47:24 2012] [debug] 200 OK (0.007394s, 135.245/s).
+[Fri Apr 13 12:47:25 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:47:25 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:47:25 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:47:25 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:47:25 2012] [debug] 200 OK (0.000507s, 1972.387/s).
+[Fri Apr 13 12:47:26 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:47:26 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:47:26 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:47:27 2012] [debug] 200 OK (0.272580s, 3.669/s).
+[Fri Apr 13 12:48:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 12:48:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:48:01 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:48:01 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 12:48:01 2012] [debug] 200 OK (0.007338s, 136.277/s).
+[Fri Apr 13 12:48:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:48:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:48:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:48:02 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:48:02 2012] [debug] 200 OK (0.000498s, 2008.032/s).
+[Fri Apr 13 12:48:03 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 12:48:03 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 12:48:03 2012] [debug] Dispatching callback.
+[Fri Apr 13 12:48:04 2012] [debug] 200 OK (0.273121s, 3.661/s).
+[Fri Apr 13 13:03:18 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 13:03:18 2012] [debug] 200 OK (0.001628s, 614.251/s).
+[Fri Apr 13 13:04:11 2012] [debug] GET /query/as (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 13:04:11 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:04:11 2012] [debug] 200 OK (0.011561s, 86.498/s).
+[Fri Apr 13 13:04:16 2012] [debug] GET /query/as+about (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 13:04:16 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:04:16 2012] [debug] 200 OK (0.017126s, 58.391/s).
+[Fri Apr 13 13:08:21 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:08:21 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:21 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:08:21 2012] [debug] 200 OK (0.007238s, 138.160/s).
+[Fri Apr 13 13:08:26 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:26 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:26 2012] [debug] 200 OK (0.268003s, 3.731/s).
+[Fri Apr 13 13:08:32 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:32 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:32 2012] [debug] 200 OK (0.054921s, 18.208/s).
+[Fri Apr 13 13:08:34 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:34 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:34 2012] [debug] 200 OK (0.053297s, 18.763/s).
+[Fri Apr 13 13:08:36 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:36 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:36 2012] [debug] 200 OK (0.053669s, 18.633/s).
+[Fri Apr 13 13:08:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:39 2012] [debug] 200 OK (0.057298s, 17.453/s).
+[Fri Apr 13 13:08:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:39 2012] [debug] 200 OK (0.054251s, 18.433/s).
+[Fri Apr 13 13:08:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:39 2012] [debug] 200 OK (0.055015s, 18.177/s).
+[Fri Apr 13 13:08:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:39 2012] [debug] 200 OK (0.053969s, 18.529/s).
+[Fri Apr 13 13:08:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 13:08:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:08:50 2012] [debug] 200 OK (0.058609s, 17.062/s).
+[Fri Apr 13 13:08:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:08:57 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:08:57 2012] [debug] 200 OK (0.001456s, 686.813/s).
+[Fri Apr 13 13:08:58 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:08:58 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:08:58 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:08:58 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:08:58 2012] [debug] 200 OK (0.000557s, 1795.332/s).
+[Fri Apr 13 13:09:00 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:09:00 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:09:00 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:09:00 2012] [debug] 200 OK (0.055703s, 17.952/s).
+[Fri Apr 13 13:09:08 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:09:08 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:09:08 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:09:08 2012] [debug] 200 OK (0.055518s, 18.012/s).
+[Fri Apr 13 13:09:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:09:36 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:09:36 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:09:36 2012] [debug] 200 OK (0.071466s, 13.993/s).
+[Fri Apr 13 13:10:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:10:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:10:45 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:10:45 2012] [debug] 200 OK (0.007203s, 138.831/s).
+[Fri Apr 13 13:10:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:10:45 2012] [debug] 200 OK (0.000629s, 1589.825/s).
+[Fri Apr 13 13:10:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:47 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:10:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:10:48 2012] [debug] 200 OK (0.269049s, 3.717/s).
+[Fri Apr 13 13:10:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:52 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:10:52 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:10:52 2012] [debug] 200 OK (0.055754s, 17.936/s).
+[Fri Apr 13 13:10:56 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:10:56 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:10:56 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:10:56 2012] [debug] 200 OK (0.057609s, 17.358/s).
+[Fri Apr 13 13:19:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:19:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:19:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:19:44 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:19:44 2012] [debug] 200 OK (0.007704s, 129.803/s).
+[Fri Apr 13 13:19:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:19:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:19:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:19:45 2012] [debug] 200 OK (0.001680s, 595.238/s).
+[Fri Apr 13 13:19:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:19:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:19:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:19:50 2012] [debug] 200 OK (0.270921s, 3.691/s).
+[Fri Apr 13 13:20:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:01 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:20:01 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:20:01 2012] [debug] 200 OK (0.062128s, 16.096/s).
+[Fri Apr 13 13:20:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:31 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:20:31 2012] [debug] 200 OK (0.001381s, 724.113/s).
+[Fri Apr 13 13:20:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:32 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:20:32 2012] [debug] 200 OK (0.000637s, 1569.859/s).
+[Fri Apr 13 13:20:34 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:34 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:20:34 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:20:34 2012] [debug] 200 OK (0.062075s, 16.110/s).
+[Fri Apr 13 13:20:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:20:36 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:20:36 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:20:37 2012] [debug] 200 OK (0.059545s, 16.794/s).
+[Fri Apr 13 13:26:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:26:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:26:16 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:26:16 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:26:16 2012] [debug] 200 OK (0.007500s, 133.333/s).
+[Fri Apr 13 13:26:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:26:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:26:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:26:17 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:26:17 2012] [debug] 200 OK (0.000476s, 2100.840/s).
+[Fri Apr 13 13:26:21 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:26:21 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:26:21 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:26:22 2012] [debug] 200 OK (0.262912s, 3.804/s).
+[Fri Apr 13 13:27:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:27:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:27:37 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:27:37 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:27:37 2012] [debug] 200 OK (0.007022s, 142.410/s).
+[Fri Apr 13 13:27:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:27:38 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:27:38 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:27:38 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:27:38 2012] [debug] 200 OK (0.000602s, 1661.130/s).
+[Fri Apr 13 13:27:39 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:27:39 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:27:39 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:27:39 2012] [debug] 200 OK (0.271586s, 3.682/s).
+[Fri Apr 13 13:28:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:28:01 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:28:01 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:28:01 2012] [debug] 200 OK (0.062572s, 15.982/s).
+[Fri Apr 13 13:34:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:34:40 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:34:40 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:34:40 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:34:40 2012] [debug] 200 OK (0.007039s, 142.066/s).
+[Fri Apr 13 13:34:40 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:34:41 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:34:41 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:34:41 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:34:41 2012] [debug] 200 OK (0.000511s, 1956.947/s).
+[Fri Apr 13 13:34:42 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:34:42 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:34:42 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:34:42 2012] [debug] 200 OK (0.274291s, 3.646/s).
+[Fri Apr 13 13:34:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:34:43 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:34:43 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:34:43 2012] [debug] 200 OK (0.061146s, 16.354/s).
+[Fri Apr 13 13:35:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:35:00 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:00 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:00 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:35:00 2012] [debug] 200 OK (0.007197s, 138.947/s).
+[Fri Apr 13 13:35:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:01 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:01 2012] [debug] 200 OK (0.000602s, 1661.130/s).
+[Fri Apr 13 13:35:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:02 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:02 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:35:02 2012] [debug] 200 OK (0.276525s, 3.616/s).
+[Fri Apr 13 13:35:03 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:03 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:03 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:35:03 2012] [debug] 200 OK (0.060195s, 16.613/s).
+[Fri Apr 13 13:35:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 13:35:24 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:24 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:24 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 13:35:24 2012] [debug] 200 OK (0.007208s, 138.735/s).
+[Fri Apr 13 13:35:25 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:25 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:25 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:25 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:25 2012] [debug] 200 OK (0.000502s, 1992.032/s).
+[Fri Apr 13 13:35:26 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 13:35:26 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 13:35:26 2012] [debug] Dispatching callback.
+[Fri Apr 13 13:35:26 2012] [debug] 200 OK (0.272280s, 3.673/s).
+[Fri Apr 13 14:01:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:01:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:01:52 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:01:52 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 14:01:52 2012] [debug] 200 OK (0.007063s, 141.583/s).
+[Fri Apr 13 14:01:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:01:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:01:53 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:01:53 2012] [debug] 200 OK (0.001454s, 687.758/s).
+[Fri Apr 13 14:01:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:01:54 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:01:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:01:55 2012] [debug] 200 OK (0.275009s, 3.636/s).
+[Fri Apr 13 14:02:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:02:05 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:02:05 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:02:05 2012] [debug] 200 OK (0.061529s, 16.252/s).
+[Fri Apr 13 14:02:14 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:02:14 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:02:14 2012] [debug] 200 OK (0.062379s, 16.031/s).
+[Fri Apr 13 14:02:17 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:02:17 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:02:17 2012] [debug] 200 OK (0.059878s, 16.701/s).
+[Fri Apr 13 14:02:20 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:02:20 2012] [debug] 200 OK (0.001114s, 897.666/s).
+[Fri Apr 13 14:02:22 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:02:22 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:02:22 2012] [debug] 200 OK (0.060401s, 16.556/s).
+[Fri Apr 13 14:02:28 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:02:28 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:02:28 2012] [debug] 200 OK (0.059791s, 16.725/s).
+[Fri Apr 13 14:04:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:04:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:04:18 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:04:18 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:04:18 2012] [debug] 200 OK (0.272791s, 3.666/s).
+[Fri Apr 13 14:08:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:08:56 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:08:56 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 14:08:56 2012] [debug] 200 OK (0.007272s, 137.514/s).
+[Fri Apr 13 14:09:01 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:09:01 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:09:01 2012] [debug] 200 OK (0.350578s, 2.852/s).
+[Fri Apr 13 14:09:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:09:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:09:50 2012] [debug] 200 OK (0.067471s, 14.821/s).
+[Fri Apr 13 14:09:52 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:09:52 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:09:52 2012] [debug] 200 OK (0.061937s, 16.145/s).
+[Fri Apr 13 14:09:56 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:09:56 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:09:56 2012] [debug] 200 OK (0.061511s, 16.257/s).
+[Fri Apr 13 14:10:48 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:10:48 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:10:48 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 14:10:48 2012] [debug] 200 OK (0.007097s, 140.905/s).
+[Fri Apr 13 14:10:51 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:10:51 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:10:51 2012] [debug] 200 OK (0.322098s, 3.105/s).
+[Fri Apr 13 14:10:54 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:10:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:10:54 2012] [debug] 200 OK (0.067048s, 14.915/s).
+[Fri Apr 13 14:13:31 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:13:31 2012] [debug] 200 OK (0.001523s, 656.599/s).
+[Fri Apr 13 14:18:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:18:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:18:57 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:18:57 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 14:18:57 2012] [debug] 200 OK (0.006946s, 143.968/s).
+[Fri Apr 13 14:18:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:18:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:18:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:18:57 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:18:57 2012] [debug] 200 OK (0.000843s, 1186.240/s).
+[Fri Apr 13 14:19:00 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:19:00 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:19:00 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:19:00 2012] [debug] 200 OK (0.274538s, 3.642/s).
+[Fri Apr 13 14:19:08 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:19:08 2012] [debug] 200 OK (0.001415s, 706.714/s).
+[Fri Apr 13 14:19:12 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:19:12 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:19:12 2012] [debug] 200 OK (0.062364s, 16.035/s).
+[Fri Apr 13 14:20:48 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:20:48 2012] [debug] 200 OK (0.001643s, 608.643/s).
+[Fri Apr 13 14:20:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:20:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:20:51 2012] [debug] 200 OK (0.081067s, 12.335/s).
+[Fri Apr 13 14:20:54 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:20:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:20:54 2012] [debug] 200 OK (0.081234s, 12.310/s).
+[Fri Apr 13 14:21:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:21:45 2012] [debug] 200 OK (0.001364s, 733.138/s).
+[Fri Apr 13 14:21:49 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:21:49 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:21:49 2012] [debug] 200 OK (0.071041s, 14.076/s).
+[Fri Apr 13 14:22:01 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:22:01 2012] [debug] 200 OK (0.001611s, 620.732/s).
+[Fri Apr 13 14:22:05 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:22:05 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:22:05 2012] [debug] 200 OK (0.062409s, 16.023/s).
+[Fri Apr 13 14:22:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:22:45 2012] [debug] 200 OK (0.001596s, 626.566/s).
+[Fri Apr 13 14:22:47 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:22:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:22:47 2012] [debug] 200 OK (0.061841s, 16.171/s).
+[Fri Apr 13 14:22:48 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:22:48 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:22:48 2012] [debug] 200 OK (0.059162s, 16.903/s).
+[Fri Apr 13 14:22:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:22:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:22:50 2012] [debug] 200 OK (0.059102s, 16.920/s).
+[Fri Apr 13 14:24:53 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:24:53 2012] [debug] 200 OK (0.001726s, 579.374/s).
+[Fri Apr 13 14:24:57 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:24:57 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:24:58 2012] [debug] 200 OK (0.081202s, 12.315/s).
+[Fri Apr 13 14:27:43 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:27:43 2012] [debug] 200 OK (0.001572s, 636.132/s).
+[Fri Apr 13 14:27:47 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:27:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:27:47 2012] [debug] 200 OK (0.062142s, 16.092/s).
+[Fri Apr 13 14:29:28 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:29:28 2012] [debug] 200 OK (0.001681s, 594.884/s).
+[Fri Apr 13 14:29:32 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:29:32 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:29:32 2012] [debug] 200 OK (0.063316s, 15.794/s).
+[Fri Apr 13 14:30:41 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:41 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:41 2012] [debug] 200 OK (0.062506s, 15.998/s).
+[Fri Apr 13 14:30:44 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:44 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:44 2012] [debug] 200 OK (0.060003s, 16.666/s).
+[Fri Apr 13 14:30:47 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:47 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:47 2012] [debug] 200 OK (0.059268s, 16.873/s).
+[Fri Apr 13 14:30:49 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:49 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:49 2012] [debug] 200 OK (0.059324s, 16.857/s).
+[Fri Apr 13 14:30:50 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:50 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:50 2012] [debug] 200 OK (0.058996s, 16.950/s).
+[Fri Apr 13 14:30:52 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:52 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:52 2012] [debug] 200 OK (0.059718s, 16.745/s).
+[Fri Apr 13 14:30:53 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:53 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:53 2012] [debug] 200 OK (0.058928s, 16.970/s).
+[Fri Apr 13 14:30:55 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:30:55 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:30:55 2012] [debug] 200 OK (0.059023s, 16.943/s).
+[Fri Apr 13 14:31:04 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:31:04 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:31:04 2012] [debug] 200 OK (0.061575s, 16.240/s).
+[Fri Apr 13 14:34:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:34:01 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:34:01 2012] [debug] Rendering template "query.html.ep".
+[Fri Apr 13 14:34:01 2012] [debug] 200 OK (0.007452s, 134.192/s).
+[Fri Apr 13 14:34:08 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:34:08 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:34:08 2012] [debug] 200 OK (0.416072s, 2.403/s).
+[Fri Apr 13 14:34:15 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:34:15 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:34:16 2012] [debug] 200 OK (0.171089s, 5.845/s).
+[Fri Apr 13 14:36:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:01 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:01 2012] [debug] 200 OK (0.001606s, 622.665/s).
+[Fri Apr 13 14:36:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:02 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:02 2012] [debug] 200 OK (0.000557s, 1795.332/s).
+[Fri Apr 13 14:36:06 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:06 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:06 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:36:06 2012] [debug] 200 OK (0.173735s, 5.756/s).
+[Fri Apr 13 14:36:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:14 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:14 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:36:15 2012] [debug] 200 OK (0.172467s, 5.798/s).
+[Fri Apr 13 14:36:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:31 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:31 2012] [debug] 200 OK (0.001762s, 567.537/s).
+[Fri Apr 13 14:36:34 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:34 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:34 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:36:35 2012] [debug] 200 OK (0.183009s, 5.464/s).
+[Fri Apr 13 14:36:41 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:41 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:41 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:36:42 2012] [debug] 200 OK (0.238516s, 4.193/s).
+[Fri Apr 13 14:36:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:36:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:36:47 2012] [debug] 200 OK (0.001684s, 593.824/s).
+[Fri Apr 13 14:36:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:10 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:10 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:10 2012] [debug] 200 OK (0.234397s, 4.266/s).
+[Fri Apr 13 14:37:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:16 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:16 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:16 2012] [debug] 200 OK (0.235127s, 4.253/s).
+[Fri Apr 13 14:37:22 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:22 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:22 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:22 2012] [debug] 200 OK (0.174175s, 5.741/s).
+[Fri Apr 13 14:37:29 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:29 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:29 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:29 2012] [debug] 200 OK (0.173388s, 5.767/s).
+[Fri Apr 13 14:37:40 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:40 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:40 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:40 2012] [debug] 200 OK (0.174619s, 5.727/s).
+[Fri Apr 13 14:37:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:44 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:44 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:44 2012] [debug] 200 OK (0.177862s, 5.622/s).
+[Fri Apr 13 14:37:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:49 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:49 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:49 2012] [debug] 200 OK (0.173279s, 5.771/s).
+[Fri Apr 13 14:37:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:37:54 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:37:54 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:37:54 2012] [debug] 200 OK (0.171684s, 5.825/s).
+[Fri Apr 13 14:38:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:38:04 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:38:04 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:38:04 2012] [debug] 200 OK (0.172684s, 5.791/s).
+[Fri Apr 13 14:38:15 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)).
+[Fri Apr 13 14:38:15 2012] [debug] 200 OK (0.001602s, 624.220/s).
+[Fri Apr 13 14:38:19 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:38:19 2012] [debug] 200 OK (0.001302s, 768.049/s).
+[Fri Apr 13 14:38:27 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:38:27 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:38:27 2012] [debug] 200 OK (0.026311s, 38.007/s).
+[Fri Apr 13 14:38:30 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:38:30 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:38:30 2012] [debug] 200 OK (0.023109s, 43.273/s).
+[Fri Apr 13 14:38:33 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:38:33 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:38:33 2012] [debug] 200 OK (0.023596s, 42.380/s).
+[Fri Apr 13 14:38:35 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Apr 13 14:38:35 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:38:35 2012] [debug] 200 OK (0.022918s, 43.634/s).
+[Fri Apr 13 14:39:08 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:39:08 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:39:08 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:39:08 2012] [debug] 200 OK (0.172990s, 5.781/s).
+[Fri Apr 13 14:39:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:39:14 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:39:14 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:39:14 2012] [debug] 200 OK (0.172787s, 5.787/s).
+[Fri Apr 13 14:39:53 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.3; .NET4.0C; .NET4.0E; SE 2.X MetaSr 1.0)).
+[Fri Apr 13 14:39:53 2012] [debug] 200 OK (0.001502s, 665.779/s).
+[Fri Apr 13 14:45:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Apr 13 14:45:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:45:16 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:45:16 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:45:16 2012] [debug] 200 OK (0.367411s, 2.722/s).
+[Fri Apr 13 14:45:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:45:18 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:45:18 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:45:18 2012] [debug] 200 OK (0.171028s, 5.847/s).
+[Fri Apr 13 14:45:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Fri Apr 13 14:45:20 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Fri Apr 13 14:45:20 2012] [debug] Dispatching callback.
+[Fri Apr 13 14:45:20 2012] [debug] 200 OK (0.170155s, 5.877/s).

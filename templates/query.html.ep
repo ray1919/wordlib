@@ -3,10 +3,9 @@
     <title>Word Library</title>
     <link rel="stylesheet" href="css/demo.css">
     <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dijit/themes/claro/claro.css" />
-    <link rel="stylesheet" href="css/demo.css">
     <script src="http://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dojo/dojo.js" data-dojo-config="async: true"></script>
     <script>
-        require(["dojo/on", "dojo/dom", "dijit/registry", "dojo/_base/xhr", "dijit/form/SimpleTextarea", "dijit/form/CheckBox", "dijit/form/Button", "dojo/domReady!"], function(on, dom, registry, xhr, SimpleTextarea, CheckBox, Button) {
+        require(["dojo/dom-style", "dojo/on", "dojo/dom", "dijit/registry", "dojo/_base/xhr", "dijit/form/SimpleTextarea", "dijit/form/CheckBox", "dijit/form/Button", "dojo/domReady!"], function(domStyle, on, dom, registry, xhr, SimpleTextarea, CheckBox, Button) {
 
             var textarea = new SimpleTextarea({
                 rows: 7,
@@ -38,13 +37,18 @@
                         }
                     }
                     console.log(qLibs.join());
-                    xhr.get({
-                        url: "query/" + qLibs.join(),
-                        load: function(newContent) {
-                            dom.byId("return").innerHTML = newContent;
+                    domStyle.set(dom.byId("return"),"width",domStyle.get(dom.byId("textarea"),"width"));
+                    xhr.post({
+                        url: "query",
+                        content: {
+                            text: registry.byId("textarea").get("value"),
+                            libs: qLibs.join(),
                         },
-                        error: function() {
-                            dom.byId("return").innerHTML = "Try it again!";
+                        load: function(newContent){
+                            dom.byId("return").innerHTML = newContent.replace(/<em>/g,'<em class="highlighted">');
+                        },
+                        error: function(error) {
+                            dom.byId("return").innerHTML = "Try it again!" + error;
                         }
                     });
                 }
