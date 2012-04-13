@@ -57,7 +57,10 @@ sub check_text {
     next if /\d/;
     $s = to_S($_);
     $isChecked = 0;
-    if ($word = Words::Word->search(word => $s)->first) {
+    foreach $tail ('', 'ed', 'ing') {
+    $s_trim = $s;
+    $s_trim =~ s/${tail}$//;
+    if ($word = Words::Word->search(word => $s_trim)->first) {
       @dbs = $word->dbs;
       map {
         my $dbn = $_->db->dbname;
@@ -65,12 +68,14 @@ sub check_text {
           $isChecked = 1;
         }
       } @dbs;
+      last;
+    }
     }
     if ($isChecked == 1) {
-      $res .= join('','<em>',$s,'</em>');
+      $res .= join('','<em>',$_,'</em>');
     }
     else{
-     $res .= $s;
+     $res .= $_;
     }
     $res .= " ";
   }
