@@ -38,6 +38,7 @@
                     }
                     console.log(qLibs.join());
                     domStyle.set(dom.byId("return"),"width",domStyle.get(dom.byId("textarea"),"width"));
+                    registry.byId("btn1").set('disabled',true);
                     xhr.post({
                         url: "query",
                         content: {
@@ -46,6 +47,7 @@
                         },
                         load: function(newContent){
                             dom.byId("return").innerHTML = newContent.replace(/<em>/g,'<em class="highlighted">');
+                            registry.byId("btn1").set('disabled',false);
                         },
                         error: function(error) {
                             dom.byId("return").innerHTML = "Try it again!" + error;
