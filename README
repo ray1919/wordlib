@@ -7,3 +7,5 @@ Perl Module dependency:
   Text::ExtractWords
   Lingua::EN::Inflect::Phrase
   Mojolicious
+
+use local dojo source for this branch

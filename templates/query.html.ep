@@ -2,8 +2,8 @@
   <head>
     <title>Word Library</title>
     <link rel="stylesheet" href="css/demo.css">
-    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dijit/themes/claro/claro.css" />
-    <script src="http://ajax.googleapis.com/ajax/libs/dojo/1.7.1/dojo/dojo.js" data-dojo-config="async: true"></script>
+    <link rel="stylesheet" href="dojo/dijit/themes/claro/claro.css" />
+    <script src="dojo/dojo/dojo.js" data-dojo-config="async: true"></script>
     <script>
         require(["dojo/dom-style", "dojo/on", "dojo/dom", "dijit/registry", "dojo/_base/xhr", "dijit/form/SimpleTextarea", "dijit/form/CheckBox", "dijit/form/Button", "dojo/domReady!"], function(domStyle, on, dom, registry, xhr, SimpleTextarea, CheckBox, Button) {
 

@@ -470,3 +470,101 @@
 [Mon Apr 16 16:22:13 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
 [Mon Apr 16 16:22:13 2012] [debug] Dispatching callback.
 [Mon Apr 16 16:22:13 2012] [debug] 200 OK (0.026263s, 38.076/s).
+[Tue Apr 17 10:53:09 2012] [info] Server listening (http://*:3000)
+[Tue Apr 17 10:53:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Tue Apr 17 10:53:13 2012] [debug] Rendering template "query.html.ep".
+[Tue Apr 17 10:53:13 2012] [debug] 200 OK (0.007669s, 130.395/s).
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:16 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Tue Apr 17 10:53:16 2012] [debug] Dispatching callback.
+[Tue Apr 17 10:53:16 2012] [debug] 200 OK (0.229571s, 4.356/s).
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Tue Apr 17 10:53:20 2012] [debug] 200 OK (0.001500s, 666.667/s).
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:20 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:36 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Tue Apr 17 10:53:36 2012] [debug] Dispatching callback.
+[Tue Apr 17 10:53:37 2012] [debug] 200 OK (0.620159s, 1.612/s).
+[Tue Apr 17 10:53:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:53:49 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Tue Apr 17 10:53:49 2012] [debug] Dispatching callback.
+[Tue Apr 17 10:53:49 2012] [debug] 200 OK (0.628139s, 1.592/s).
+[Tue Apr 17 10:54:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Apr 17 10:54:02 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
+[Tue Apr 17 10:54:02 2012] [debug] Dispatching callback.
+[Tue Apr 17 10:54:02 2012] [debug] 200 OK (0.610846s, 1.637/s).
