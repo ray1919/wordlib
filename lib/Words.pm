@@ -1,22 +1,21 @@
 package Words::DBI;
 use base 'Class::DBI';
-Words::DBI->connection( 'dbi:SQLite:dbname=words.db', '', '',
-  { RaiseError => 1 } );
+Words::DBI->connection( 'dbi:mysql:dbname=ZhaoRui;mysql_socket=/var/lib/mysql/mysql.sock', 'zhaorui', '', { RaiseError => 1 } );
 
 package Words::Word;
 use base 'Words::DBI';
-Words::Word->table('word');
+Words::Word->table('wl_word');
 Words::Word->columns( All => qw/wordid word/ );
 Words::Word->has_many( dbs => 'Words::Db' );
 
 package Words::Dbname;
 use base 'Words::DBI';
-Words::Dbname->table('dbname');
+Words::Dbname->table('wl_dbname');
 Words::Dbname->columns( All => qw/dbnameid dbname/ );
 
 package Words::Db;
 use base 'Words::DBI';
-Words::Db->table('db');
+Words::Db->table('wl_db');
 Words::Db->columns( All => qw/dbid db word/ );
 Words::Db->has_a( db   => 'Words::Dbname' );
 Words::Db->has_a( word => 'Words::Word' );

@@ -9,3 +9,4 @@ Perl Module dependency:
   Mojolicious
 
 use local dojo source for this branch
+use MySQL database

@@ -568,3 +568,22 @@
 [Tue Apr 17 10:54:02 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19).
 [Tue Apr 17 10:54:02 2012] [debug] Dispatching callback.
 [Tue Apr 17 10:54:02 2012] [debug] 200 OK (0.610846s, 1.637/s).
+[Wed Apr 18 09:23:10 2012] [info] Server listening (http://*:3000)
+[Wed Apr 18 09:23:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 18 09:23:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Wed Apr 18 09:23:15 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19).
+[Wed Apr 18 09:23:15 2012] [debug] Rendering template "query.html.ep".
+[Wed Apr 18 09:23:15 2012] [debug] 200 OK (0.007600s, 131.579/s).
+[Wed Apr 18 09:23:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Wed Apr 18 09:23:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Wed Apr 18 09:23:48 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19).
+[Wed Apr 18 09:23:48 2012] [debug] Dispatching callback.
+[Wed Apr 18 09:23:48 2012] [debug] 200 OK (0.421413s, 2.373/s).
+[Wed Apr 18 09:24:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Wed Apr 18 09:24:28 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19).
+[Wed Apr 18 09:24:28 2012] [debug] Dispatching callback.
+[Wed Apr 18 09:24:29 2012] [debug] 200 OK (1.590776s, 0.629/s).
+[Wed Apr 18 09:24:38 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Wed Apr 18 09:24:38 2012] [debug] POST /query (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19).
+[Wed Apr 18 09:24:38 2012] [debug] Dispatching callback.
+[Wed Apr 18 09:24:40 2012] [debug] 200 OK (1.550475s, 0.645/s).
