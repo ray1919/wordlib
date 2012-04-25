@@ -43,7 +43,7 @@
                         url: "query",
                         content: {
                             text: registry.byId("textarea").get("value"),
-                            libs: qLibs.join(),
+                            libs: qLibs.join()
                         },
                         load: function(newContent){
                             dom.byId("return").innerHTML = newContent.replace(/<em>/g,'<em class="highlighted">');
